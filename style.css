@@ -1,0 +1,7 @@
+.container {
+  padding: 6px; 
+  border-radius: 8px; 
+  background-color: #8585de;
+}
+#count{
+  text-align: center; 
